@@ -1,0 +1,42 @@
+body {
+    padding: 20px;
+    background-color: #e0181880;
+}
+
+#tableContainer {
+    padding-bottom: 20px;
+}
+
+table {
+    background-color: #2b18d8d0;
+    border-spacing: 5;
+}
+
+td {
+    border: 1px solid #F1F5DA;
+
+    width: 25px;
+    height: 25px;
+}
+
+span {
+    color: #222;
+}
+
+#startButton,
+#clearButton,
+#randomButton {
+    padding: .75em;
+    border-radius: 5px;
+    border: none;
+    background:  #587559;
+}
+
+td.off {
+    background-color: transparent;
+}
+
+td.on {
+    background-color: #10ec98c5;
+    
+}
